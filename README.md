@@ -1,16 +1,24 @@
-# localization
+# Localization with Clean Code
 
-A new Flutter project.
+With this project change locale with button using easy localization.
 
-## Getting Started
+<br>
 
-This project is a starting point for a Flutter application.
+## Images
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+<p float="left">
+  <img hspace="20" src="readme_files/english.png" width="200" />
+  <img hspace="20"  src="readme_files/dropdown.png" width="200" />
+  <img hspace="20"  src="readme_files/turkish.png" width="200" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Gif
+
+<br>
+
+<p>
+  <img hspace="20"  src="readme_files/localization_gif.gif" width="200" />
+</p>
